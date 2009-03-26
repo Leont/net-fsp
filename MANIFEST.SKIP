@@ -1,0 +1,12 @@
+^_build
+^Build$
+^blib
+~$
+\.bak$
+^MANIFEST\.SKIP$
+\.swp
+\.tdy
+\.tar\.gz
+Net-FSP-.*
+^\.git
+^fsp2$
